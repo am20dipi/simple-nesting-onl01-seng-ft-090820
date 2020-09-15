@@ -14,8 +14,8 @@ def hopper()
           :languages => ["C"]
         }
      }
-hopper:grace_hopper)
-hopper[]
+hopper(programmer_hash)[:grace_hopper]
+hopper(programmer_hash)[:alan_kay][:known_for]
 
 
 end
